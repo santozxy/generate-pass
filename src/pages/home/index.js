@@ -46,7 +46,7 @@ export function Home() {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: "#f3f3ff",
+        backgroundColor: "#f5f5f5",
         alignItems: "center",
         justifyContent: "center",
     },
